@@ -1,7 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
@@ -18,15 +14,6 @@ sidebar:
     linkedin: Iosif Manucharyan
     #xing: alandoe
     github: ymanucharian
-    #telegram: # add your nickname without '@' sign
-   # gitlab:
-   # bitbucket:
-   # twitter: '@webjeda'
-  #  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  #  codewars:
-   # goodreads: # Number-Username, e.g. 123456-alandoe
-  #  pdf: http://www.africau.edu/images/default/sample.pdf
-
     languages:
       - idiom: English
         level: Intermediate
@@ -36,97 +23,44 @@ sidebar:
 
       - idiom: Russian
         level: Native
-
     interests:
       - item: Football
         link: https://itleague.kharkov.ua/teams/X1
-
-      #- item: Snowboarding
-      #  link:
-      
 career-profile:
     title: Career Profile
     summary: |
-- 6 years of the experience in Quality Assurance
+        - 6 years of the experience in Quality Assurance
 
-- Strong understanding of SDLC and testing methodologies
+        - Strong understanding of SDLC and testing methodologies
 
-- Strong experience in testing web and mobile applications
+        - Strong experience in testing web and mobile applications
 
-- Experience in testing and writing test documents such as test cases, checklists, test plan, mind maps
+        - Experience in testing and writing test documents such as test cases, checklists, test plan, mind maps
 
-- Experience in analyzing, Test Design, API testing, SpecFlow integration testing
+        - Experience in analyzing, Test Design, API testing, SpecFlow integration testing
 
-- Conducting internal trainings for QA team, have experience in a mentoring
+        - Conducting internal trainings for QA team, have experience in a mentoring
 
-- Preparation of testing result reports, estimations, sprint planning, demo performing
-
+        - Preparation of testing result reports, estimations, sprint planning, demo performing
 education:
     - degree: MSc in Applied physics
       university: V.N. Karazin Kharkiv National University
       time: 2008 - 2012
-      details: |
-      #  Describe your study here lorem ipsum dolor sit amet, consectetuer
-       # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-       # sociis natoque penatibus et magnis dis parturient montes, nascetur
-      #  ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      #  pretium quis, sem.
-      #    - Bullet point
-     #     - Bullet point
-  #  - degree: BSc in Applied Mathematics
-    #  university: Bristol University
-    #  time: 2007 - 2011
-    #  details: |
-      #  Describe your study here lorem ipsum dolor sit amet, consectetuer
-      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      #  sociis natoque penatibus et magnis dis parturient montes, nascetur
-      #  ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-     #   pretium quis, sem.
-     #     - Bullet point
-     #     - Bullet point
 experiences:
     - role: Senior Test Engineer
       time: 2019 - Present
       company: Waverley Software
       details: |
-        
-- Analysis of product specifications
-
-- Preparing Test Scenarios, analyzing and executing test cases.
-
-- Manual testing of web-based application
-
-- Performing different types of testing such as functional testing, user interface testing, usability testing, requirements testing, acceptance testing, smoke, regression testing, etc.
-
-- Defect tracking to the bug-tracker systems and giving mandatory information of a defect to developers in order to fix it.
-
-- Participation in daily standupds, team retrospective, plannings, demo
-
+        - Analysis of product specifications
+        - Preparing Test Scenarios, analyzing and executing test cases.
+        - Manual testing of web-based application
+        - Performing different types of testing such as functional testing, user interface testing, usability testing, requirements testing, acceptance testing, smoke, regression testing, etc.
+        - Defect tracking to the bug-tracker systems and giving mandatory information of a defect to developers in order to fix it.
+        - Participation in daily standupds, team retrospective, plannings, demo
 projects:
     title: Plannuh
     intro: >
       Plannuh service offers AI-driven marketing budgeting and planning software for optimizing the performance of your spend and strategy
 
-#skills:
-   # title: Skills &amp; Proficiency
 
-  #  toolset:
-  #    - name: Python & Django
-  #      level: 98%
-#
-   #   - name: Javascript & jQuery
-   #     level: 98%
-#
-   #   - name: Angular
- #       level: 98%
-#
-  #    - name: HTML5 & CSS
-  #      level: 95%
-#
-   #   - name: Ruby on Rails
-  #      level: 85%
-#
-  #    - name: Sketch & Photoshop
-    #    level: 60%
-#footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>#
+  
